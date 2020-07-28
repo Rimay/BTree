@@ -1,5 +1,5 @@
-# BTree
-This is a implementation of b tree data structure on database queries
+# BTree :deciduous_tree:
+This is a implementation of b tree data structure on database queries 
 
 ## Features
 - Create a B+-tree index file for the Student table on the StudentId field. The leaf node contains <StudentID, recordID>.
