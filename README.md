@@ -1,5 +1,5 @@
 # BTree :deciduous_tree:
-This is a implementation of b-tree on database queries 
+This is an implementation of b-tree on database queries 
 
 ## Features
 - :heavy_check_mark:  Create a B+-tree index file for the Student table on the StudentId field. The leaf node contains <StudentID, recordID>.
